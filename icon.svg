@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0a0a0a"/>
+  <circle cx="256" cy="256" r="180" stroke="rgba(240,237,232,0.15)" stroke-width="1" fill="none"/>
+  <circle cx="256" cy="256" r="140" stroke="rgba(240,237,232,0.08)" stroke-width="1" fill="none"/>
+  <!-- Arrow pointing up (north to destination) -->
+  <path d="M256 80 L290 220 L256 196 L222 220 Z" fill="rgba(240,237,232,0.92)"/>
+  <rect x="252" y="220" width="8" height="80" fill="rgba(240,237,232,0.3)" rx="2"/>
+  <path d="M256 430 L242 320 L256 332 L270 320 Z" fill="rgba(240,237,232,0.15)"/>
+  <circle cx="256" cy="256" r="8" fill="rgba(240,237,232,0.6)"/>
+</svg>
